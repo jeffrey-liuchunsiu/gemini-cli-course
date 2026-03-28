@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import { BookOpen, Users, Star } from 'lucide-vue-next';
+import FeatureCard from '~/components/FeatureCard.vue';
+import ComboCard from '~/components/ComboCard.vue';
 </script>
 
 <template>
